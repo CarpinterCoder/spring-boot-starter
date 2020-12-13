@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/carpinter-springboot-starter/carpinter-springboot-starter.iml" filepath="$PROJECT_DIR$/carpinter-springboot-starter/carpinter-springboot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carpinter-springboot-starter-autoconfigure/carpinter-springboot-starter-autoconfigure.iml" filepath="$PROJECT_DIR$/carpinter-springboot-starter-autoconfigure/carpinter-springboot-starter-autoconfigure.iml" />
+    </modules>
+  </component>
+</project>
