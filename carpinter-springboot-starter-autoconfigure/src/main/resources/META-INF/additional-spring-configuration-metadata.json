@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "carpinter.hello.suffix",
+      "type": "java.lang.String",
+      "description": "Description for carpinter.hello.suffix."
+  }
+] }
